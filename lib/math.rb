@@ -23,6 +23,6 @@ def square_root(num)
 end
 square_root
 def order_of_operation(num1, num2, num3, num4)
-   12__ + (( _6_ * 8__ ) / 20__ )
+   85 + ((25/2 * 5 ) / 8 )
 end
 order_of_operation
