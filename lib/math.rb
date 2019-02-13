@@ -1,5 +1,5 @@
 def addition(num1, num2)
-  puts 1 + 2
+  1 + 1 
 end
 addition 3
 def subtraction(num1, num2)
@@ -11,9 +11,11 @@ def division(num1, num2)
 end
 
 def multiplication(num1, num2)
+  1 * 3
 end
 
 def modulo(num1, num2)
+  
 end
 
 def square_root(num)
