@@ -1,7 +1,7 @@
 def addition(num1, num2)
   puts 1 + 2
 end
-addition (1,2)
+addition 3
 def subtraction(num1, num2)
 end
 
